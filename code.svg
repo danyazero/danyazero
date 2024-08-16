@@ -14,7 +14,7 @@
 }
 </style>
     <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d2.end' dur='4000ms' fill='remove'
+        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='4000ms' fill='remove'
             values='m0,20 h0 ; m0,20 h500 ; m0,20 h500 ; m0,20 h0' keyTimes='0;0.4;0.9;1' />
     </path>
 
