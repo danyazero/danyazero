@@ -14,7 +14,7 @@
 }
 </style>
     <path id='path0'>
-        <animate id='d0' repeatCount="indefinite" attributeName='d' begin='0s;d1.end' dur='4000ms' fill='remove'
+        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='4000ms' fill='remove'
             values='m0,20 h0 ; m0,20 h500 ; m0,20 h500 ; m0,20 h0' keyTimes='0;0.4;0.9;1' />
     </path>
 
@@ -26,7 +26,7 @@
         </textPath>
     </text>
     <path id='path1'>
-        <animate id='d1' repeatCount="indefinite" attributeName='d' begin='d0.end' dur='4000ms' fill="remove"
+        <animate id='d1' attributeName='d' begin='d0.end' dur='4000ms' fill="remove"
                     values='m0,20 h0 ; m0,20 h500 ; m0,20 h500 ; m0,20 h0' keyTimes='0;0.4;0.9;1' />
     </path>
 
