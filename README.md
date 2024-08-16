@@ -21,6 +21,7 @@
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker, Docker Compose"/></a>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" alt="JSON Web Tokens"/></a>
+  <a href="https://spring.io"><img src="https://img.shields.io/badge/swagger-6cb52d?style=for-the-badge&logo=swagger&logoColor=white&titleColor=white" alt="Spring"/></a>
 </p>
 
 > Frontend
