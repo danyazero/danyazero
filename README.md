@@ -45,6 +45,7 @@
   <a href="mailto:danyamozzhukhin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
+> P.S. University GitHub Profile: <a href="https://github.com/danyazero">Link</a>
 <!--
 **danyazero/danyazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
